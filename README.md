@@ -1,2 +1,2 @@
-# risque
-risque, a RISC-V emulator
+# RISQUE (RISQUe Emulator)
+risque is a RISC-V emulator
